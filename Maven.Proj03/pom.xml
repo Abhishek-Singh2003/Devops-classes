@@ -85,7 +85,7 @@
 
 	<build>
 
-		<finalName>Abhijar</finalName>  <!--if we have use this so we have give acc to our jar name -->
+		<finalName>Abhijar</finalName>  <!--if we have use this so we have give acc to our jar name  hello  -->
 
 		<pluginManagement>
 			<plugins>
